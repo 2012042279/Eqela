@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Events
+#
+
+projectname: Events
+vendorid: com.mycompany
+mainmodule: com.mycompany.events

@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Scene
+#
+
+projectname: Scene
+vendorid: com.mycompany
+mainmodule: com.mycompany.scene
